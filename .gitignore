@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Local environment / secrets
+.env
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# Claude Code collaboration files (local only)
+CLAUDE.md
+.claude/
