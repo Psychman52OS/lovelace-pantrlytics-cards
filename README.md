@@ -26,9 +26,9 @@ A set of Home Assistant Lovelace cards for [PantrLytics](https://github.com/Psyc
 
 1. Open HACS in Home Assistant.
 2. Go to **Frontend** → click the **⋮** menu → **Custom repositories**.
-3. Add `https://github.com/Psychman52OS/lovelace-pantrlytics-cards` as category **Lovelace**.
+3. Add `https://github.com/Psychman52OS/lovelace-pantrlytics-cards` as category **Dashboard**.
 4. Search for **PantrLytics Cards** and click **Download**.
-5. Add the resource to your Lovelace configuration:
+5. Add the resource to your dashboard configuration:
    - Go to **Settings → Dashboards → ⋮ → Manage resources**.
    - Add `/hacsfiles/lovelace-pantrlytics-cards/pantrlytics-cards.js` as a **JavaScript module**.
 6. Reload your browser (`Ctrl+Shift+R` / `Cmd+Shift+R`).
