@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+# Build output — dist/ is local only; pantrlytics-cards.js at root is the HACS release artifact
+dist/
+
 # Local environment / secrets
 .env
 
